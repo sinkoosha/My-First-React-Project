@@ -1,4 +1,4 @@
-My Emoji Search App
+Emoji Search App
 ---
 
 Install project
